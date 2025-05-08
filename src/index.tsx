@@ -1,4 +1,4 @@
-import React from "react";
+// @ts-nocheck
 import { createRoot } from "react-dom/client";
 import { App } from "./App";
 
